@@ -1,2 +1,2 @@
 # areatriangle
-Projeto de programação estruturada e orientada a objetos
+Projeto de programação estruturada e orienktada a objeto
